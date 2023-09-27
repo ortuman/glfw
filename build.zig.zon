@@ -1,0 +1,5 @@
+.{
+    .name = "glfw",
+    .version = "3.3.8",
+    .dependencies = .{},
+}
